@@ -8,10 +8,12 @@
 
 <div align="center" style="display: inline_block"><br>
     
-<img align="centerr" alt="Html-João" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="centerr" alt="Html-João" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="centerr" alt="Html-João" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="centerr" alt="Html-João" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="centerr" alt="Html-João" height="45" width="55 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-                                       
+<p align="left">
+<img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosajoaohttps&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</p>                                      
     
 <div>
